@@ -1,8 +1,3 @@
-Got it. Here's a refined `README.md` tailored for your **EduPath** project using **Chainlit** and **Gemini**, without folder structure, and emphasizing its practical application:
-
----
-
-````markdown
 # 🎓 EduPath
 
 **EduPath** is an AI-powered learning roadmap generator designed to guide aspiring developers and tech enthusiasts on their journey. Using **Chainlit** for an intuitive chat-based interface and **Gemini** for intelligent content generation, EduPath crafts personalized pathways in seconds.
